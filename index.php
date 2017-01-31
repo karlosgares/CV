@@ -2,8 +2,8 @@
 <html lang="es">
  <head>
   <meta http-equiv="Content-Type" content="text/html;UTF-8">
-  <meta name="Author" content="Karlos García">
-  <meta name="Keywords" content="CV Karlos García">
+  <meta name="Author" content="Karlos García Ares">
+  <meta name="Keywords" content="PHP SQL Wordpress Prestashop">
   <title>Karlos Garc&iacute;a Ares</title>
  <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
