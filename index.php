@@ -4,14 +4,16 @@
   <meta http-equiv="Content-Type" content="text/html;UTF-8">
   <meta name="Author" content="Karlos García Ares">
   <meta name="Keywords" content="PHP SQL Wordpress Prestashop">
-  <title>Karlos Garc&iacute;a Ares CV</title>
-	<!-- Latest compiled and minified CSS -->
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-	<link rel="stylesheet" href="css/estilos.css">
-	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-	<script type="text/javascript" src="js/pie.js"></script>
-</head>
-<body>
+  <title>Karlos Garc&iacute;a Ares</title>
+ <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" href="css/estilos.css">
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+ <script type="text/javascript" src="js/pie.js"></script>
+ </head>
+ <body>
+
+
 <div class="row">
 	<div class="col-sm-8">
 		<img src="img/IMG_0890.jpg" border="0" alt="Karlos Garc&iacute;a Ares" class="img-circle" align="left" style="padding:10px">
